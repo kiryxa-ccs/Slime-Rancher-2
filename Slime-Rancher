@@ -1,0 +1,115 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #e5f58c;
+  
+  
+}
+.h1{
+    text-align: center;
+    background: linear-gradient(90deg,rgba(200, 230, 5, 1) 0%, rgba(5, 99, 3, 1) 100%);
+    margin: auto;
+    border-radius:5px;
+    color: #bf5e0a;
+    padding: 20px;
+    height: 60px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.h2{
+    text-align: center;
+    margin: 12px;
+    border-radius:5px;
+    color: #bf5e0a;
+    border: 1px solid black;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(350deg,rgba(223, 255, 43, 1) 0%, rgba(0, 92, 5, 1) 100%);
+}
+    
+    
+.p1{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+.slaym1{
+    width: 400px;
+}
+.slaym2{
+    width: 400px;
+}
+.slaym3{
+    width: 400px;
+}
+.Div{
+    justify-content: center;
+    display: flex;
+}
+.a{
+  text-decoration: none;
+  color: #bf5e0a;
+  font-weight: bold;
+}
+.menu{
+    list-style: none;
+    margin: 12px;
+    background: linear-gradient(269deg,rgba(223, 255, 43, 1) 0%, rgba(0, 92, 5, 1) 100%);
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+.img11{
+   width: 700px;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+.div2{
+    margin: 10px;
+}
+.h3{
+    text-align: center;
+    margin: 12px;
+    border-radius:5px;
+    color: #bfe016;
+    border: 1px solid black;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    
+}
+.src1{
+    width: 450px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ul1{
+   font-family: Comic Sans MS; 
+   
+}
+.footer{
+    padding: 20px;
+    height: 60px;
+    background: linear-gradient(90deg,rgba(200, 230, 5, 1) 0%, rgba(5, 99, 3, 1) 100%);
+    display: flex;
+    
+    
+}
+.p2{
+   font-family: Comic Sans MS; 
+   display: flex;
+}
+.container{
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+}
